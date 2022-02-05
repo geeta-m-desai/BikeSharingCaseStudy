@@ -15,6 +15,7 @@ You are required to model the demand for shared bikes with the available indepen
 4.Splitting the Data into Training and Testing Sets  
 5.Feature Scaling  
 6.Building the Model and iterating to improve the model
+
 7.Residual Analysis of the train data  
 8.Making predictions using final model  
 9.Model Evaluation
